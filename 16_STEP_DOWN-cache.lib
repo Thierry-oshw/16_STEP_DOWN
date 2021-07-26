@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Chimere_SCT2325
+# Chimere_comps_SCT2325
 #
-DEF Chimere_SCT2325 U 0 40 Y Y 1 F N
+DEF Chimere_comps_SCT2325 U 0 40 Y Y 1 F N
 F0 "U" -150 200 50 H V C CNN
-F1 "Chimere_SCT2325" 0 -200 50 H V C CNN
+F1 "Chimere_comps_SCT2325" 0 -200 50 H V C CNN
 F2 "Package_TO_SOT_SMD:TSOT-23-6_HandSoldering" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

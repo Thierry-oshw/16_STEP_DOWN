@@ -19,7 +19,7 @@ U 1 1 606CE97F
 P 1800 6725
 F 0 "J1" H 1880 6767 50  0000 L CNN
 F 1 "Conn_01x01" H 1880 6676 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 1800 6725 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 1800 6725 50  0001 C CNN
 F 3 "~" H 1800 6725 50  0001 C CNN
 	1    1800 6725
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 606CFC19
 P 1800 7075
 F 0 "J3" H 1880 7117 50  0000 L CNN
 F 1 "Conn_01x01" H 1880 7026 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 1800 7075 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 1800 7075 50  0001 C CNN
 F 3 "~" H 1800 7075 50  0001 C CNN
 	1    1800 7075
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 606D5E52
 P 1800 6900
 F 0 "J2" H 1880 6942 50  0000 L CNN
 F 1 "Conn_01x01" H 1880 6851 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 1800 6900 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 1800 6900 50  0001 C CNN
 F 3 "~" H 1800 6900 50  0001 C CNN
 	1    1800 6900
 	1    0    0    -1  
@@ -58,7 +58,7 @@ U 1 1 6079B82F
 P 3150 6750
 F 0 "J5" H 3230 6792 50  0000 L CNN
 F 1 "Conn_01x01" H 3230 6701 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 3150 6750 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 3150 6750 50  0001 C CNN
 F 3 "~" H 3150 6750 50  0001 C CNN
 	1    3150 6750
 	1    0    0    -1  
@@ -69,7 +69,7 @@ U 1 1 6079BCA3
 P 1800 7250
 F 0 "J4" H 1880 7292 50  0000 L CNN
 F 1 "Conn_01x01" H 1880 7201 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 1800 7250 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 1800 7250 50  0001 C CNN
 F 3 "~" H 1800 7250 50  0001 C CNN
 	1    1800 7250
 	1    0    0    -1  
@@ -949,7 +949,7 @@ U 1 1 60B193A9
 P 5850 1900
 F 0 "L1" V 5669 1900 50  0000 C CNN
 F 1 "MWSA0402S-100MT" V 5760 1900 50  0000 C CNN
-F 2 "Chimere:L_Sunlord_MWSA0402S_4.2x4.4x2.0mm" H 5850 1900 50  0001 C CNN
+F 2 "Chimere_comps:L_Sunlord_MWSA0402S_4.2x4.4x2.0mm" H 5850 1900 50  0001 C CNN
 F 3 "C408339" H 5850 1900 50  0001 C CNN
 	1    5850 1900
 	0    1    1    0   
@@ -959,7 +959,7 @@ V_BRUT_P
 Text GLabel 6050 1900 2    50   Input ~ 0
 5V
 $Comp
-L Chimere:SCT2325 U1
+L Chimere_comps:SCT2325 U1
 U 1 1 60B10DAA
 P 5025 1900
 F 0 "U1" H 5025 2225 50  0000 C CNN
